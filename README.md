@@ -19,7 +19,7 @@
 #### Environment variables
 - **UID** : user id (default : 0)
 - **GID** : group id (defaut : 0)
-- **FLOOD_SECRET** : flood secret key (defaut : mysupersecretkey) (CHANGE IT)
+- **FLOOD_SECRET** : flood secret key (defaut : supersecretkey) (CHANGE IT)
 - **CONTEXT_PATH** : context path (base_URI) (default : /)
 - **RTORRENT_SCGI** : SCGI port (default : 0 for use local socket)
 - **PKG_CONFIG_PATH** : `/usr/local/lib/pkgconfig` (don't touch)
